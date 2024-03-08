@@ -17,7 +17,6 @@ The dataset is meticulously organized with unique identifiers assigned to each p
 Diverse property types contribute to the dataset's vibrancy, capturing the spectrum of residential offerings. From apartments to villas, each property type introduces a unique set of characteristics that influences rental pricing and shapes the market landscape.
 
 **Localities:** 
-
 Geographical diversity is a cornerstone of our dataset, featuring a comprehensive collection of localities. The inherent characteristics of each locality contribute nuances to property values, offering a localized perspective crucial for our predictive modeling efforts.
 
 **Property Characteristics:** 
@@ -42,7 +41,6 @@ Using Seaborn's Heatmap highlights key features positively correlated with rent,
 PCA, is a dimensionality reduction technique employed to transform a dataset with numerous correlated features into a set of linearly uncorrelated variables known as principal components.PCA allows us to condense the dataset's complexity while retaining the essential information that contributes most significantly to variance.
 
 # Machine Learning Regression Model:
-
 **Model Bulidling :** 
 The first step in our algorithmic odyssey involves the division of the dataset into training and testing subsets. This partitioning ensures a robust evaluation of algorithmic performance, with the training set serving as the crucible for model learning and the testing set acting as a litmus test for predictive accuracy on unseen data.
 
@@ -52,7 +50,7 @@ The first step in our algorithmic odyssey involves the division of the dataset i
 grid search and cross-validation. Grid search helps us systematically test different hyperparameter combinations, while cross-validation ensures we evaluate our model's performance thoroughly, avoiding overfitting or underfitting. 
 Best Hyperparameters: {'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 150}
 
-**Model Accuracy and Metrics**
+**Model Accuracy and Metrics:**
 Assessing the performance of our predictive model involves a comprehensive examination of regression metrics. Key metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE) and R-squared (R²) are this holistic evaluation provides valuable insights into the model's ability to effectively capture and predict rental property prices, ensuring a nuanced understanding of its overall performance.
 
 # Contributing
