@@ -10,17 +10,24 @@ In the dynamic landscape of the real estate industry, the accurate determination
 # Dataset Overview: 
 This dataset encompasses a rich array of features, each playing a pivotal role in our pursuit of developing a predictive model for rental prices. Here's a succinct overview of the dataset's key elements, serving as the foundation for our modeling endeavor.
 
-**unique Identifiers :** The dataset is meticulously organized with unique identifiers assigned to each property.
+**unique Identifiers :** 
+The dataset is meticulously organized with unique identifiers assigned to each property.
 
-**Property Types:** Diverse property types contribute to the dataset's vibrancy, capturing the spectrum of residential offerings. From apartments to villas, each property type introduces a unique set of characteristics that influences rental pricing and shapes the market landscape.
+**Property Types:** 
+Diverse property types contribute to the dataset's vibrancy, capturing the spectrum of residential offerings. From apartments to villas, each property type introduces a unique set of characteristics that influences rental pricing and shapes the market landscape.
 
-**Localities:** Geographical diversity is a cornerstone of our dataset, featuring a comprehensive collection of localities. The inherent characteristics of each locality contribute nuances to property values, offering a localized perspective crucial for our predictive modeling efforts.
+**Localities:** 
 
-**Property Characteristics:** Fundamental attributes such as size, age, and floor details are meticulously documented. These characteristics form the building blocks for understanding how the physical attributes of a property contribute to its overall rental valuation.
+Geographical diversity is a cornerstone of our dataset, featuring a comprehensive collection of localities. The inherent characteristics of each locality contribute nuances to property values, offering a localized perspective crucial for our predictive modeling efforts.
 
-**Amenities:** The dataset delves into the amenities offered by each property, providing insights into the additional features that contribute to a property's appeal. The presence or absence of amenities significantly influences rental values and is a crucial aspect of our predictive modeling considerations.
+**Property Characteristics:** 
+Fundamental attributes such as size, age, and floor details are meticulously documented. These characteristics form the building blocks for understanding how the physical attributes of a property contribute to its overall rental valuation.
 
-**Rental Price (Target Variable):** At the core of our predictive modeling lies the rental price, our key target variable. 
+**Amenities:** 
+The dataset delves into the amenities offered by each property, providing insights into the additional features that contribute to a property's appeal. The presence or absence of amenities significantly influences rental values and is a crucial aspect of our predictive modeling considerations.
+
+**Rental Price (Target Variable):** 
+At the core of our predictive modeling lies the rental price, our key target variable. 
 
 **Handling Null Values:**
 To address missing values in the dataset, a systematic approach was adopted where most features with null values were replaced with Mean and Mode.
