@@ -56,6 +56,9 @@ Assessing the performance of our predictive model involves a comprehensive exami
 # Contributing
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 
+# License:
+This project is licensed under the MIT License. Refer to the LICENSE file for more details.
+
 # Contact 
 📧 Email: thangamani1128@gmail.com
 
